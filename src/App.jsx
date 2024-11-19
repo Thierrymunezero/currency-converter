@@ -13,7 +13,7 @@ const App = () => {
       return;
     }
 
-    // Fetch exchange rate data from API (use your API key from exchange rate providers like Fixer.io or Open Exchange Rates)
+
 
     const url = `https://api.exchangerate-api.com/v4/latest/${fromCurrency}`;
 
