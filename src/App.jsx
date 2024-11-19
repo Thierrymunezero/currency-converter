@@ -47,7 +47,7 @@ const App = () => {
 
         <Initial />
         <Final />
-        <button onClick={convertCurrency}>Search</button>
+        <button onClick={convertCurrency}>Convert</button>
         <div className="result" id="result"></div>
       </div>
     </div>
